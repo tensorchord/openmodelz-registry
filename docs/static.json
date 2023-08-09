@@ -1,0 +1,11 @@
+[{
+    "name": "Stable Diffusion Web UI",
+    "description": "Stable Diffusion Web UI",
+    "framework": "gradio",
+    "image": "modelzai/gradio-stable-diffusion",
+    "tags": [
+      23.03
+    ],
+    "port": 7860
+  }
+]
